@@ -1,0 +1,9 @@
+# 核心依赖
+kivy>=2.3.1
+
+# Kivy依赖的其他包会自动安装，包括：
+# - Pillow：图像处理
+# - docutils：文档支持
+# - pygments：语法高亮
+# - kivy-deps.sdl2：SDL2支持
+# - kivy-deps.glew：OpenGL支持
